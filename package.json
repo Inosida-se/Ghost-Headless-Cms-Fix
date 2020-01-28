@@ -23,9 +23,4 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/TryGhost/Casper.git"
-  },
-  "bugs": "https://github.com/TryGhost/Casper/issues",
-  "contributors": "https://github.com/TryGhost/Casper/graphs/contributors",
-
-}
+    "url": "https://github.com/Inosida-se/Ghost-Headless-Cms-Fix"
