@@ -8,4 +8,4 @@ If you want to use the fix just download the project, change the web address to 
 
 ## Contribute
 
-Feel free to push a fix for something that you think I could have done better or in another way 
+Feel free to push a fix for something that you think we could have done better or in another way 
